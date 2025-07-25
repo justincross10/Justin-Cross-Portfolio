@@ -13,7 +13,7 @@ This repository holds all past and current projects I have produced throughout m
 - Embedded systems programming of STM32 dev board
 
 ## Skills
-- MATLAB, Simulink, Python, C++, Arduino, ESP, STM32, Assembly
+- MATLAB, Simulink, Python, C, C++, Arduino, ESP32, STM32, Assembly
 - Circuit Design, Mechanical design, Control Systems, Robotics
 - LaTeX, SolidWorks, LTSpice, KiCad
 
