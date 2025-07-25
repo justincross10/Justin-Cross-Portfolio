@@ -1,10 +1,3 @@
-/* 
-Modified on Nov 25, 2020
-Modified by MehranMaleki from Arduino Examples
-Home
-*/
-
-
 // CONNECTIONS:
 // DS1302 CLK/SCLK --> 5
 // DS1302 DAT/IO --> 4
