@@ -4,7 +4,7 @@ This repository holds all past and current projects I have produced throughout m
 
 ## Projects
 
-- [Predator detection and detterence system design for conservation of the African Penguin]
+- [Predator detection and deterrence system design for conservation of the African Penguin]
 - [Software design of a maze-solving robot known as a micromouse]
 - [Simulation of rocket control for interception of an asteroid collision with earth]
 - [Development and implementation of a machine learning classifier for the human activity recognition]
