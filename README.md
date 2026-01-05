@@ -4,7 +4,7 @@ This repository holds all past projects I have produced throughout my university
 
 ## Projects
 
-- Radar Based Sports Ball Tracking Demonstrator
+- Radar based sports ball tracking demonstrator
 - Predator detection and deterrence system design for conservation of the African Penguin
 - Software design of a maze-solving robot known as a micromouse
 - Simulation of rocket control for interception of an asteroid collision with earth
@@ -15,8 +15,5 @@ This repository holds all past projects I have produced throughout my university
 
 ## Skills
 - MATLAB, Simulink, Python, C, C++, Arduino, ESP32, STM32, Assembly
-- Circuit Design, Mechanical design, Control Systems, Robotics
+- Circuit Design, Mechanical design, Control Systems, Robotics, Signal Processing
 - LaTeX, SolidWorks, LTSpice, KiCad
-
-## Current project (Thesis)
-- Radar based sports ball tracking demonstrator
