@@ -1,5 +1,5 @@
 # Justin-Cross-Portfolio
-I am a graduating student in Mechatronic Engineering at the Univeristy of Cape Town.
+I am a graduate Mechatronic Engineer from the Univeristy of Cape Town.
 This repository holds all past and current projects I have produced throughout my university career and vacation work opportunities.
 
 ## Projects
